@@ -1,4 +1,4 @@
-# "카카오톡 친구에게 이체하는 간편이체 프로세스" 설계 및 개발
+# "간편이체 프로세스" 설계 및 개발
 ![슬라이드1](https://user-images.githubusercontent.com/43509229/174475339-4a35fedf-c6ea-4582-a1d7-4a4bf5550516.JPG)
 ![슬라이드2](https://user-images.githubusercontent.com/43509229/174475340-c234c60f-ad3c-4f32-a7e8-822c097b2712.JPG)
 ![슬라이드3](https://user-images.githubusercontent.com/43509229/174475341-3c3a3c37-1b9d-4ddd-9663-1e7962992042.JPG)
